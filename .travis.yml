@@ -1,7 +1,4 @@
 language: php
 php:
   - 5.5
-script: phpunit --version  
-notifications:
-  webhooks:
-    - http://107.170.94.172:9080/integrations/travis/8f43549b564fc2808a6f578fb69a5159
+script: phpunit --version
