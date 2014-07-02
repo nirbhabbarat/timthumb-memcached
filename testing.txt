@@ -2,8 +2,6 @@
 # Configuration name dbatest00 generated for nirbhabbarat@gmail.com at 2014-03-25 10:07:54
 
 [mysql]
-
-
 # CLIENT #
 port                           = 3306
 socket                         = /var/lib/mysql/mysql.sock
